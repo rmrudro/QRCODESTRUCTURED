@@ -1,0 +1,4 @@
+1.ZXing.Net-masterフォルダに移動してください 
+2.zxing.vs2019.ci.sln をVisualStudio つかって開いてください
+３．BarCodeTest　は　Zxingで連結QRコードの作成　の解決です。
+よろしくお願いいたします

@@ -1,1 +1,2 @@
 # QRCOdeStructured
+# StructuredQRCODE
